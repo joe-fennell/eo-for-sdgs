@@ -1,7 +1,7 @@
 # Using satellite data to monitor urban green space
 ### Joe Fennell, 2021
 
-**Quickstart: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joe-fennell/eo-for-sdgs/blob/main/1_FirstSteps.ipynb)
+**Quickstart:** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joe-fennell/eo-for-sdgs/blob/main/1_FirstSteps.ipynb)
 
 In this activity, we will look at the use of satellite data to address the United Nations' Sustainable Development Goals (SDGs) through a mixture of learning material and experimentation with real data. This will take you about 1 hour to work through.
 
