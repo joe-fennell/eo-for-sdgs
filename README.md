@@ -6,7 +6,7 @@ In this activity, we will look at the use of satellite data to address the Unite
 |:---:|
 |*Sentinel-2 Satellite. Image from the European Space Agency*|
 
-## 1. How to access this resource 
+## How to access this resource 
 This learning resource is a [Jupyter Notebook](https://jupyter.org/). It brings together text, images and code, allowing us to try out techniques alongside the relevant information. I have used the [Python](https://www.python.org/) programming language to produce this but you don't need to know Python to use this resource.
 
 A Jupyter Notebook can either be used *statically* (you can only view the contents) or *dynamically* (you can run, alter, re-run and interact with the Python code within the notebook). You can do many useful things with Jupyter Notebooks and [there is a useful demonstration Notebook here](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Notebook%20Basics.ipynb) that explains the different features.
